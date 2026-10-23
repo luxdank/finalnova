@@ -1,0 +1,6 @@
+{
+  "name": "Nova ISP - Internet Fibra Ótica & Central do Assinante",
+  "description": "Portal oficial da Nova ISP com planos de Internet Fibra Ótica até 800MB, Telemedicina SulAmérica, NovaEduca e Central do Assinante interativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
